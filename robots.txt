@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://izeeyuowor.lucasklein.us/sitemap.xml
